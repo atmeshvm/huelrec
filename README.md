@@ -1,5 +1,6 @@
 # huelrec
 Course recommender
+
 Deleted Courses:
 [Adv. Comm. English]
 [INTRO TO DEV STUDIES]
