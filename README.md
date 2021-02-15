@@ -1,29 +1,5 @@
 # huelrec
 Course recommender
-
-Deleted Courses:
-[Adv. Comm. English]
-[INTRO TO DEV STUDIES]
- [LINGUISTICS]
-[PUBLIC POLICY]
-[PUBLIC ADMINISTRATION]
- [REPORT & WRITE FOR MEDIA]
-
-
-Orange listed (too less data points)
- [CONTEMPORARY INDIA]
-[APPR OF INDIAN MUSIC]
-[CREATIVE WRITING]
-[CULTURAL STUDIES]
-[DEVELOPMENT ECONOMICS]
- [DEVELOPMENT THEORIES]
-[EFFECTIVE PUBLIC SPEAK]
- [GANDHIAN THOUGHTS]
- [SHORT FILM & VIDEO PROD]
-[SOP]
-
-Deleted People:
-20190013
-20190744
-20190058
-20190820
+Collected Data from 250+ Sophomores on the humanities electives they took.
+Based on the data, generated personalized recommendations.
+Will think of improvements and generalization before the start of next semester.
